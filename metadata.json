@@ -1,0 +1,6 @@
+{
+  "name": "Pay & Crypto",
+  "description": "A payment app supporting peer-to-peer transfers and cryptocurrency wallet integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
